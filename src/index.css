@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Global styles and chessboard theming will go here */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #000000;
+  color: white;
+}
